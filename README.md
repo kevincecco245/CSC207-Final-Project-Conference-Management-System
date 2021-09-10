@@ -31,3 +31,5 @@ eventsfeature.Event System:
 - If you choose to create, you can further choose to create a new room, event, or Speaker.
 - To cancel an event, you must input an existing room number and event id.
 - By file reading and writing to the events text file, we can save and read event information in the form of strings.
+
+Project Created by Kevin Cecco, Daniel Chan, Caroline McKenzie, Manav Shah, Mohammad Sohaib Saqib, William Wang, Anastasia Young, and Emily Zhou.
